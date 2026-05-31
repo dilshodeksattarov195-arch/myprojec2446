@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailrtringify",
+        "uuid": 1200986,
+        "checksum": "5h804l"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
